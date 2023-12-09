@@ -1,5 +1,5 @@
 # COCL에서 사용한 딥러닝에 대해 조사
-PyTorch의 핵심 모듈과 CarbonTrack 모듈을 사용하여 학습 중에 탄소 배출량을 추적한다.
+PyTorch의 핵심 모듈과 Carbon_Track 모듈을 사용하여 학습 중에 탄소 배출량을 추적한다.
 
 PyTorch란?<br/>
 PyTorch는 Python 기반의 과학 연산 패키지로 다음 두 가지 목적으로 제공한다.<br/>
