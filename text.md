@@ -14,5 +14,10 @@ torch.optim: SGD, RMSProp, LBFGS, Adam등과 같은 표준 최적화 방법으�
 torch.utils: 편의를 위해 DataLoader, Trainer 및 기타 유틸리티 기능<br/>
 *'datasets 및 transforms는 PyTorch에서 제공하는 데이터셋 및 전처리 도구<br/><br/>
 
+신경망은 torch.nn 패키지를 사용하여 생성할 수 있다<br/>
+![image](https://github.com/yewon0325/COCL-PVwatts/assets/147733678/f4953186-a7fb-4b9d-b735-73ef9644885a)
+<br/>
+
+
 
 
