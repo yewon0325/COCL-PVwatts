@@ -17,7 +17,7 @@ torch.utils: 편의를 위해 DataLoader, Trainer 및 기타 유틸리티 기능
 신경망은 torch.nn 패키지를 사용하여 생성할 수 있다<br/>
 ![image](https://github.com/yewon0325/COCL-PVwatts/assets/147733678/f4953186-a7fb-4b9d-b735-73ef9644885a)
 <br/>
-신경망의 일반적인 학습 과정
+신경망의 일반적인 학습 과정<br/>
 학습 가능한 매개변수(또는 가중치(weight))를 갖는 신경망을 정의한다.<br/>
 데이터셋(dataset) 입력을 반복한다.<br/>
 입력을 신경망에서 전파(process)한다.<br/>
