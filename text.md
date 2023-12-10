@@ -28,4 +28,6 @@ torch.utils: 편의를 위해 DataLoader, Trainer 및 기타 유틸리티 기능
 
 TensorFlow?<br/>
 TensorFlow는 수치 계산, 대규모 머신 러닝, 딥러닝, 기타 통계 및 예측 분석 워크로드를 위한 오픈 소스 라이브러리이다.<br/>
-
+수학에서의 행렬, 벡터를 파이썬으로 표현하고싶을 때 사용한다.<br/>
+Keras는 Tensorflow 위에서 동작하는 라잉브러리로<br/>
+모듈화하기 쉽고, 다중 GPU연산과 학습의 분산처리를 지원한다.<br/>
