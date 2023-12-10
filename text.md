@@ -24,7 +24,8 @@ torch.utils: 편의를 위해 DataLoader, Trainer 및 기타 유틸리티 기능
 4. 손실(loss; 출력이 정답으로부터 얼마나 떨어져 있는지)을 계산한다.<br/>
 5. 변화도(gradient)를 신경망의 매개변수들에 역으로 전파한다.<br/>
 6. 신경망의 가중치를 갱신한다.<br/>
-*일반적으로 다음과 같은 간단한 규칙을 사용: 새로운 가중치(weight) = 가중치(weight) - 학습률(learning rate) * 변화도(gradient)<br/>
+*일반적으로 다음과 같은 간단한 규칙을 사용: 새로운 가중치(weight) = 가중치(weight) - 학습률(learning rate) * 변화도(gradient)<br/><br/>
 
-
+TensorFlow?<br/>
+TensorFlow는 수치 계산, 대규모 머신 러닝, 딥러닝, 기타 통계 및 예측 분석 워크로드를 위한 오픈 소스 라이브러리이다.<br/>
 
